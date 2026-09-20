@@ -1,5 +1,8 @@
 import "./globals.css";
 import { readContent } from "@/lib/content";
+import { SpeedInsights } from "@vercel/speed-insights/next"
+import { Analytics } from "@vercel/analytics/next"
+
 
 export async function generateMetadata() {
   let site = {};
@@ -45,7 +48,11 @@ export default function RootLayout({ children }) {
           rel="stylesheet"
         />
       </head>
-      <body>{children}</body>
+      <body>
+        {children}
+        <SpeedInsights />
+        <Analytics />
+      </body>
     </html>
   );
 }
