@@ -8,9 +8,18 @@
   "email": "Bharoon00@gmail.com",
   "portrait": "/images/portrait.png",
   "stats": [
-    { "value": "5+", "label": "Projects Delivered" },
-    { "value": "2+", "label": "Years Experience" },
-    { "value": "100%", "label": "Client Focused" }
+    {
+      "value": "10+",
+      "label": "Projects Delivered"
+    },
+    {
+      "value": "2+",
+      "label": "Years Experience"
+    },
+    {
+      "value": "100%",
+      "label": "Client Focused"
+    }
   ],
   "socials": {
     "linkedin": "https://www.linkedin.com/in/haroon-rashid-636b99261/",
