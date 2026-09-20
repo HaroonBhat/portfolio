@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Web Development",
+    "desc": "Fast, responsive websites and web apps built with Next.js & React."
+  },
+  {
+    "name": "UI / UX Design",
+    "desc": "Intuitive, accessible interfaces designed around real users."
+  },
+  {
+    "name": "Full-Stack Apps",
+    "desc": "End-to-end products with APIs, databases and admin dashboards."
+  },
+  {
+    "name": "Brand & Identity",
+    "desc": "Cohesive visual identities that make brands memorable."
+  },
+  {
+    "name": "Booking Systems",
+    "desc": "Custom reservation & e-commerce flows that convert."
+  }
+]

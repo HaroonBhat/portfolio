@@ -1,0 +1,11 @@
+[
+  {
+    "id": "b1",
+    "title": "Building a Git-backed CMS with Next.js",
+    "slug": "git-backed-cms",
+    "excerpt": "How I built a database-free content management system using the GitHub API and Cloudinary.",
+    "date": "2026-01-15",
+    "cover": "",
+    "published": false
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "siteTitle": "Haroon Rashid — Designer & Developer",
+  "siteDescription": "Designing digital experiences that inspire. Modern web development with Next.js & React.",
+  "accentColor": "#7df9c4",
+  "availability": "Online & available",
+  "year": "2026",
+  "heroMode": "anonymous",
+  "marquee": [
+    "Web Development",
+    "UI / UX Design",
+    "Full-Stack",
+    "Branding",
+    "Next.js"
+  ]
+}

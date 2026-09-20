@@ -1,0 +1,89 @@
+[
+  {
+    "id": "the-shorewood",
+    "number": "01",
+    "title": "The Shorewood",
+    "category": "Hospitality \u2022 Booking",
+    "year": "2025",
+    "description": "A luxury resort and hotel booking platform with an immersive reservation flow, live room availability, and a refined, high-end brand experience.",
+    "tech": [
+      "Next.js",
+      "React",
+      "Tailwind CSS",
+      "Booking Engine"
+    ],
+    "image": "/images/shorewood.png",
+    "accent": "#7df9c4",
+    "link": "#",
+    "featured": true
+  },
+  {
+    "id": "pc-planet",
+    "number": "02",
+    "title": "PC Planet",
+    "category": "E-commerce \u2022 Retail",
+    "year": "2025",
+    "description": "A modern e-commerce storefront for computers, components, and electronics \u2014 with a product catalog, cart, and clean checkout experience.",
+    "tech": [
+      "Next.js",
+      "React",
+      "E-commerce",
+      "Node.js"
+    ],
+    "image": "/images/pcplanet.png",
+    "accent": "#9d7bff",
+    "link": "#",
+    "featured": true
+  },
+  {
+    "id": "travel-with-ashu",
+    "number": "03",
+    "title": "Travel With Ashu",
+    "category": "Travel \u2022 Booking",
+    "year": "2024",
+    "description": "Cab booking and travel service website with an online booking system, route planning, and instant enquiry handling.",
+    "tech": [
+      "Next.js",
+      "Booking System",
+      "Travel"
+    ],
+    "image": "/images/travelwithashu.png",
+    "accent": "#f59e0b",
+    "link": "#",
+    "featured": false
+  },
+  {
+    "id": "dojees",
+    "number": "04",
+    "title": "Dojees",
+    "category": "Hospitality \u2022 Full Stack",
+    "year": "2024",
+    "description": "Hotel booking and room management system with live availability tracking and an admin dashboard.",
+    "tech": [
+      "Next.js",
+      "Full Stack",
+      "MongoDB"
+    ],
+    "image": "/images/dojees.png",
+    "accent": "#a855f7",
+    "link": "#",
+    "featured": false
+  },
+  {
+    "id": "kashmir-legacy",
+    "number": "05",
+    "title": "Kashmir Legacy",
+    "category": "Portfolio \u2022 UI/UX",
+    "year": "2024",
+    "description": "Modern portfolio website for interior design and architectural services with a striking, gallery-first layout.",
+    "tech": [
+      "Next.js",
+      "Portfolio",
+      "UI/UX"
+    ],
+    "image": "/images/kashmirlegacy.png",
+    "accent": "#ec4899",
+    "link": "#",
+    "featured": false
+  }
+]

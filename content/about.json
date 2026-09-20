@@ -1,0 +1,19 @@
+{
+  "name": "Haroon Rashid",
+  "tagline": "Designing Digital Experiences That Inspire",
+  "headline": "I'm a passionate designer & developer creating modern, user-focused digital experiences.",
+  "bioPrimary": "From building strong brand identities to designing intuitive interfaces and developing responsive websites, I help businesses transform ideas into impactful digital products.",
+  "bioSecondary": "I work primarily with Next.js, React, and JavaScript, crafting fast, accessible products with clean code and great UX.",
+  "location": "Srinagar, Kashmir, India",
+  "email": "Bharoon00@gmail.com",
+  "portrait": "/images/portrait.png",
+  "stats": [
+    { "value": "5+", "label": "Projects Delivered" },
+    { "value": "2+", "label": "Years Experience" },
+    { "value": "100%", "label": "Client Focused" }
+  ],
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/haroon-rashid-636b99261/",
+    "github": "https://github.com/HaroonBhat"
+  }
+}
