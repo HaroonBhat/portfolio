@@ -85,5 +85,21 @@
     "accent": "#ec4899",
     "link": "#",
     "featured": false
+  },
+  {
+    "id": "global-attire",
+    "number": "06",
+    "title": "Global Attire",
+    "category": "",
+    "year": "2026",
+    "description": "Global Attire is a private inventory management system built to efficiently manage products, stock, billing, receipts, and sales records in one centralized platform.\n",
+    "tech": [
+      "Next js",
+      "Neon Db"
+    ],
+    "image": "https://res.cloudinary.com/yuztt6yh/image/upload/v1790176755/portfolio/amp0y7jr5owibsslvais.png",
+    "accent": "#7df9c4",
+    "link": "",
+    "featured": false
   }
 ]
