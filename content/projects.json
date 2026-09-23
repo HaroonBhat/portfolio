@@ -90,7 +90,7 @@
     "id": "global-attire",
     "number": "06",
     "title": "Global Attire",
-    "category": "",
+    "category": "Inventory Management System",
     "year": "2026",
     "description": "Global Attire is a private inventory management system built to efficiently manage products, stock, billing, receipts, and sales records in one centralized platform.\n",
     "tech": [
